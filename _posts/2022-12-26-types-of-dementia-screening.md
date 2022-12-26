@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Different Types of Dementia Screening Tests"
-date:   2022-12-25 23:30:16 +0900
+date:   2022-12-26 15:27:16 +0900
 categories: development
 ---
 #Neuropsychiatric Inventory Questionnaire(NPI-Q)
