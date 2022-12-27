@@ -4,7 +4,7 @@ title:  "Different Types of Dementia Screening Tests"
 date:   2022-12-26 15:27:16 +0900
 categories: development
 ---
-#Neuropsychiatric Inventory Questionnaire(NPI-Q)
+##Neuropsychiatric Inventory Questionnaire(NPI-Q)
 
 >The Neuropsychiatric Inventory Questionnaire. reference: Tsoi et al. 2000. [publication link] (https://www.alz.org/media/documents/npiq-questionnaire.pdf)
 
