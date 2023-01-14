@@ -42,4 +42,4 @@ Neuropsychiatric Inventory Questionnaire(NPI-Q) is informant-based interview tha
 
 The Neuropsychiatric Inventory Questionnaire(NPI-Q) is conducted as an informat assesses whether the patients portrayed any Neuropsychiatric symptoms, and determines how severe each symptom was.
 
-The risk of developing dementia is much higher among people who've shown neuropsychiatric symptom.
+The risk of developing dementia is much higher among people who've shown neuropsychiatric symptom.  
