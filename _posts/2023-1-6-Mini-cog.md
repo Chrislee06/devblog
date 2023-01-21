@@ -21,6 +21,14 @@ Pros
 - Quick and Rapid - Thye entire test takes approximately 3 ~ 5 mins
 - Simple - The test has straightforward steps, and the test ensures that the patient understands each step.
 - Basic -  Other tests, like the MMSE, have been found to require a certain level of education, while the Mini-Cog can be taken by anyone.
+
 Cons 
 - Not always accurate - THe Mini-Cog is a short test, as it quick and rapid the results can't completely determine whether the patient has dementia or not. 
 - Results are specific - The Mini-Cog does not identify the stage or extent of a person’s dementia.
+
+## Mission statement 
+
+What is the prupose of this project? What are we trying to acheive?
+
+## Target audience
+Who is this app for, who are we targeting? 
