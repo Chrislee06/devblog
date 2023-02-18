@@ -1,17 +1,22 @@
 ---
 layout: post
-title:  "Color Scheme?"
-date:   2023-01-06 13:01:16 +0900
+title:  "Introducing our app"
+date:   2023-01-14 13:01:17 +0900
 categories: research
 ---
 
-## Why does Color Scheme matter? 
+## What is Mini cog? 
 
-Color is a powerful communication tool and can be used to signal action, influence mood, and even influence physiological reactions. Certain colors have been associated with physiological changes, including increased blood pressure, increased metabolism, and eyestrain. As colors can play a significant role in porvoking different emotions and feelings, it is crucial to select the right color scheme when developing this app
+There are various screening test for dementia, however the most acccessible screening test is the Mini Cog. The Mini-Cog is a fast and simple screening test to help detect dementia in its early stages, and this is the main reason why we have selected this dementia screening test. The pros of this clear, and heavily outweighs the cons of this screening test 
+
+The Mini cog test consists of 3 crucial steps. In Stage 1, the app provides 3 words to the patient and ensures the patients to try memorizing the word. Then, ask the patient to repeat the 3 words stated. If the patient can't repeat the 3 words, move on to the next stage. 
+
+The second stage is the most crucial part of Mini Cog, the clock drawing. Provide a paper with a circle on the middle, and ask the patient to draw a circle and mark each part of the clock including the numbers, the minute hand, and the hour hand. If the patient isn't able to complete this in 3 minutes, move on to the next step 
 
 
+## What are we trying to achieve?
 
-## Chosen Color Scheme 
+The main mission of thsi project is to prodive a 
 
-My Chosen Color Scheme consists of four colors: one primary color and three seconmdary colors. The primary color is slightly 
+
 
